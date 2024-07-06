@@ -3,6 +3,6 @@ Self Troubleshooting and a FAQ for GDLauncher (*UNOFFICIAL*)
 
 **Please select one of the options**
 
-[FAQ](FAQ.md)   [Self Troubleshooting]()
+[<kbd> <br> FAQ <br> </kbd>][FAQ.md] [<kbd> <br> Self Troubleshooting <br> </kbd>][SelfTroubleshooting.md]
 
-[Website](https://gdlauncher.com)   [Discord](https://discord.gdlauncher.com/)
+[<kbd> <br> Website <br> </kbd>][https://gdlauncher.com] [<kbd> <br> Discord <br> </kbd>][https://discord.gdlauncher.com]
